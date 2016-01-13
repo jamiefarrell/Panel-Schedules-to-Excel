@@ -1,0 +1,5 @@
+C:\Users\jfarrell\Panel-Schedules-to-Excel\bin\Debug\PanelSchedule.XML
+C:\Users\jfarrell\Panel-Schedules-to-Excel\bin\Debug\PanelSchedule.dll
+C:\Users\jfarrell\Panel-Schedules-to-Excel\bin\Debug\PanelSchedule.pdb
+C:\Users\jfarrell\Panel-Schedules-to-Excel\obj\Debug\PanelSchedule.dll
+C:\Users\jfarrell\Panel-Schedules-to-Excel\obj\Debug\PanelSchedule.pdb
