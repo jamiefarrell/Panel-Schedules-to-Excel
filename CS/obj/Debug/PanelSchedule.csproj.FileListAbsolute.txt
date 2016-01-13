@@ -1,5 +1,0 @@
-C:\Users\jfarrell\Desktop\PanelSchedule\CS\bin\Debug\PanelSchedule.XML
-C:\Users\jfarrell\Desktop\PanelSchedule\CS\bin\Debug\PanelSchedule.dll
-C:\Users\jfarrell\Desktop\PanelSchedule\CS\bin\Debug\PanelSchedule.pdb
-C:\Users\jfarrell\Desktop\PanelSchedule\CS\obj\Debug\PanelSchedule.dll
-C:\Users\jfarrell\Desktop\PanelSchedule\CS\obj\Debug\PanelSchedule.pdb
